@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="24" total="42" passed="12" failed="0" skipped="6">
+  <reporter-output>
+    <line>
+      <![CDATA[onStart: ChromeTest]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Start]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Completed]]>
+    </line>
+    <line>
+      <![CDATA[onTestStart: null]]>
+    </line>
+    <line>
+      <![CDATA[Methodone started executing]]>
+    </line>
+    <line>
+      <![CDATA[Methodone completed executing]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess: null]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Start]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Completed]]>
+    </line>
+    <line>
+      <![CDATA[onTestStart: null]]>
+    </line>
+    <line>
+      <![CDATA[onTestSkipped: null]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Start]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Completed]]>
+    </line>
+    <line>
+      <![CDATA[onTestStart: null]]>
+    </line>
+    <line>
+      <![CDATA[MethodThsee started executing]]>
+    </line>
+    <line>
+      <![CDATA[MethodThsee completed executing]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess: null]]>
+    </line>
+    <line>
+      <![CDATA[onFinish: ChromeTest]]>
+    </line>
+    <line>
+      <![CDATA[onStart: FireFoxTest]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Start]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Completed]]>
+    </line>
+    <line>
+      <![CDATA[onTestStart: null]]>
+    </line>
+    <line>
+      <![CDATA[Methodone started executing]]>
+    </line>
+    <line>
+      <![CDATA[Methodone completed executing]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess: null]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Start]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Completed]]>
+    </line>
+    <line>
+      <![CDATA[onTestStart: null]]>
+    </line>
+    <line>
+      <![CDATA[onTestSkipped: null]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Start]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Completed]]>
+    </line>
+    <line>
+      <![CDATA[onTestStart: null]]>
+    </line>
+    <line>
+      <![CDATA[MethodThsee started executing]]>
+    </line>
+    <line>
+      <![CDATA[MethodThsee completed executing]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess: null]]>
+    </line>
+    <line>
+      <![CDATA[onFinish: FireFoxTest]]>
+    </line>
+    <line>
+      <![CDATA[onStart: EdgeTest]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Start]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Completed]]>
+    </line>
+    <line>
+      <![CDATA[onTestStart: null]]>
+    </line>
+    <line>
+      <![CDATA[Methodone started executing]]>
+    </line>
+    <line>
+      <![CDATA[Methodone completed executing]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess: null]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Start]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Completed]]>
+    </line>
+    <line>
+      <![CDATA[onTestStart: null]]>
+    </line>
+    <line>
+      <![CDATA[onTestSkipped: null]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Start]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Completed]]>
+    </line>
+    <line>
+      <![CDATA[onTestStart: null]]>
+    </line>
+    <line>
+      <![CDATA[MethodThsee started executing]]>
+    </line>
+    <line>
+      <![CDATA[MethodThsee completed executing]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess: null]]>
+    </line>
+    <line>
+      <![CDATA[onFinish: EdgeTest]]>
+    </line>
+    <line>
+      <![CDATA[onStart: ChromeTest]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Start]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Completed]]>
+    </line>
+    <line>
+      <![CDATA[onTestStart: null]]>
+    </line>
+    <line>
+      <![CDATA[Methodone started executing]]>
+    </line>
+    <line>
+      <![CDATA[Methodone completed executing]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess: null]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Start]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Completed]]>
+    </line>
+    <line>
+      <![CDATA[onTestStart: null]]>
+    </line>
+    <line>
+      <![CDATA[onTestSkipped: null]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Start]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Completed]]>
+    </line>
+    <line>
+      <![CDATA[onTestStart: null]]>
+    </line>
+    <line>
+      <![CDATA[MethodThsee started executing]]>
+    </line>
+    <line>
+      <![CDATA[MethodThsee completed executing]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess: null]]>
+    </line>
+    <line>
+      <![CDATA[onFinish: ChromeTest]]>
+    </line>
+    <line>
+      <![CDATA[onStart: FireFoxTest]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Start]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Completed]]>
+    </line>
+    <line>
+      <![CDATA[onTestStart: null]]>
+    </line>
+    <line>
+      <![CDATA[Methodone started executing]]>
+    </line>
+    <line>
+      <![CDATA[Methodone completed executing]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess: null]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Start]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Completed]]>
+    </line>
+    <line>
+      <![CDATA[onTestStart: null]]>
+    </line>
+    <line>
+      <![CDATA[onTestSkipped: null]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Start]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Completed]]>
+    </line>
+    <line>
+      <![CDATA[onTestStart: null]]>
+    </line>
+    <line>
+      <![CDATA[MethodThsee started executing]]>
+    </line>
+    <line>
+      <![CDATA[MethodThsee completed executing]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess: null]]>
+    </line>
+    <line>
+      <![CDATA[onFinish: FireFoxTest]]>
+    </line>
+    <line>
+      <![CDATA[onStart: EdgeTest]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Start]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Completed]]>
+    </line>
+    <line>
+      <![CDATA[onTestStart: null]]>
+    </line>
+    <line>
+      <![CDATA[Methodone started executing]]>
+    </line>
+    <line>
+      <![CDATA[Methodone completed executing]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess: null]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Start]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Completed]]>
+    </line>
+    <line>
+      <![CDATA[onTestStart: null]]>
+    </line>
+    <line>
+      <![CDATA[onTestSkipped: null]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Start]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Completed]]>
+    </line>
+    <line>
+      <![CDATA[onTestStart: null]]>
+    </line>
+    <line>
+      <![CDATA[MethodThsee started executing]]>
+    </line>
+    <line>
+      <![CDATA[MethodThsee completed executing]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess: null]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-08-18T02:12:35 IST" name="Suite 2" finished-at="2023-08-18T02:14:18 IST" duration-ms="102845">
+    <groups>
+      <group name="smoke">
+        <method signature="Testone.methodOne(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.Testone@d737b89]" name="methodOne" class="testng.Testone"/>
+        <method signature="Testone.methodThree()[pri:0, instance:testng.Testone@d737b89]" name="methodThree" class="testng.Testone"/>
+        <method signature="Testone.methodThsee()[pri:0, instance:testng.Testone@d737b89]" name="methodThsee" class="testng.Testone"/>
+        <method signature="Testone.methodOne(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.Testone@72cc7e6f]" name="methodOne" class="testng.Testone"/>
+        <method signature="Testone.methodThree()[pri:0, instance:testng.Testone@72cc7e6f]" name="methodThree" class="testng.Testone"/>
+        <method signature="Testone.methodThsee()[pri:0, instance:testng.Testone@72cc7e6f]" name="methodThsee" class="testng.Testone"/>
+        <method signature="Testone.methodOne(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.Testone@48075da3]" name="methodOne" class="testng.Testone"/>
+        <method signature="Testone.methodThree()[pri:0, instance:testng.Testone@48075da3]" name="methodThree" class="testng.Testone"/>
+        <method signature="Testone.methodThsee()[pri:0, instance:testng.Testone@48075da3]" name="methodThsee" class="testng.Testone"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2023-08-18T02:12:35 IST" name="ChromeTest" finished-at="2023-08-18T02:13:01 IST" duration-ms="25472">
+      <class name="testng.Testone">
+        <test-method is-config="true" signature="t2aTest(java.lang.String)[pri:0, instance:testng.Testone@d737b89]" started-at="2023-08-18T02:12:35 IST" name="t2aTest" finished-at="2023-08-18T02:12:41 IST" duration-ms="5709" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser inilizaton Start]]>
+            </line>
+            <line>
+              <![CDATA[Browser inilizaton Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t2aTest -->
+        <test-method signature="methodOne(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.Testone@d737b89]" started-at="2023-08-18T02:12:41 IST" name="methodOne" finished-at="2023-08-18T02:12:52 IST" duration-ms="11091" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://yahoo.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[onTestStart: null]]>
+            </line>
+            <line>
+              <![CDATA[Methodone started executing]]>
+            </line>
+            <line>
+              <![CDATA[Methodone completed executing]]>
+            </line>
+            <line>
+              <![CDATA[onTestSuccess: null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- methodOne -->
+        <test-method is-config="true" signature="t2aTest(java.lang.String)[pri:0, instance:testng.Testone@d737b89]" started-at="2023-08-18T02:12:52 IST" name="t2aTest" finished-at="2023-08-18T02:12:57 IST" duration-ms="5010" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser inilizaton Start]]>
+            </line>
+            <line>
+              <![CDATA[Browser inilizaton Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t2aTest -->
+        <test-method signature="methodThree()[pri:0, instance:testng.Testone@d737b89]" started-at="2023-08-18T02:12:57 IST" name="methodThree" finished-at="2023-08-18T02:12:57 IST" duration-ms="2" status="SKIP">
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Temporarly skipping testcase]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Temporarly skipping testcase
+at testng.Testone.methodThree(Testone.java:69)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1251)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[onTestStart: null]]>
+            </line>
+            <line>
+              <![CDATA[onTestSkipped: null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- methodThree -->
+        <test-method is-config="true" signature="t2aTest(java.lang.String)[pri:0, instance:testng.Testone@d737b89]" started-at="2023-08-18T02:12:57 IST" name="t2aTest" finished-at="2023-08-18T02:13:01 IST" duration-ms="3647" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser inilizaton Start]]>
+            </line>
+            <line>
+              <![CDATA[Browser inilizaton Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t2aTest -->
+        <test-method signature="methodThsee()[pri:0, instance:testng.Testone@d737b89]" started-at="2023-08-18T02:13:01 IST" name="methodThsee" finished-at="2023-08-18T02:13:01 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[onTestStart: null]]>
+            </line>
+            <line>
+              <![CDATA[MethodThsee started executing]]>
+            </line>
+            <line>
+              <![CDATA[MethodThsee completed executing]]>
+            </line>
+            <line>
+              <![CDATA[onTestSuccess: null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- methodThsee -->
+      </class> <!-- testng.Testone -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2023-08-18T02:13:01 IST" name="FireFoxTest" finished-at="2023-08-18T02:13:42 IST" duration-ms="41814">
+      <class name="testng.Testone">
+        <test-method is-config="true" signature="t2aTest(java.lang.String)[pri:0, instance:testng.Testone@72cc7e6f]" started-at="2023-08-18T02:13:01 IST" name="t2aTest" finished-at="2023-08-18T02:13:09 IST" duration-ms="8406" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser inilizaton Start]]>
+            </line>
+            <line>
+              <![CDATA[Browser inilizaton Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t2aTest -->
+        <test-method signature="methodOne(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.Testone@72cc7e6f]" started-at="2023-08-18T02:13:09 IST" name="methodOne" finished-at="2023-08-18T02:13:27 IST" duration-ms="18110" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[prem]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://yahoo.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[onTestStart: null]]>
+            </line>
+            <line>
+              <![CDATA[Methodone started executing]]>
+            </line>
+            <line>
+              <![CDATA[Methodone completed executing]]>
+            </line>
+            <line>
+              <![CDATA[onTestSuccess: null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- methodOne -->
+        <test-method is-config="true" signature="t2aTest(java.lang.String)[pri:0, instance:testng.Testone@72cc7e6f]" started-at="2023-08-18T02:13:27 IST" name="t2aTest" finished-at="2023-08-18T02:13:36 IST" duration-ms="8439" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser inilizaton Start]]>
+            </line>
+            <line>
+              <![CDATA[Browser inilizaton Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t2aTest -->
+        <test-method signature="methodThree()[pri:0, instance:testng.Testone@72cc7e6f]" started-at="2023-08-18T02:13:36 IST" name="methodThree" finished-at="2023-08-18T02:13:36 IST" duration-ms="1" status="SKIP">
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Temporarly skipping testcase]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Temporarly skipping testcase
+at testng.Testone.methodThree(Testone.java:69)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1251)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[onTestStart: null]]>
+            </line>
+            <line>
+              <![CDATA[onTestSkipped: null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- methodThree -->
+        <test-method is-config="true" signature="t2aTest(java.lang.String)[pri:0, instance:testng.Testone@72cc7e6f]" started-at="2023-08-18T02:13:36 IST" name="t2aTest" finished-at="2023-08-18T02:13:42 IST" duration-ms="6842" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser inilizaton Start]]>
+            </line>
+            <line>
+              <![CDATA[Browser inilizaton Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t2aTest -->
+        <test-method signature="methodThsee()[pri:0, instance:testng.Testone@72cc7e6f]" started-at="2023-08-18T02:13:42 IST" name="methodThsee" finished-at="2023-08-18T02:13:42 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[onTestStart: null]]>
+            </line>
+            <line>
+              <![CDATA[MethodThsee started executing]]>
+            </line>
+            <line>
+              <![CDATA[MethodThsee completed executing]]>
+            </line>
+            <line>
+              <![CDATA[onTestSuccess: null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- methodThsee -->
+      </class> <!-- testng.Testone -->
+    </test> <!-- FireFoxTest -->
+    <test started-at="2023-08-18T02:13:42 IST" name="EdgeTest" finished-at="2023-08-18T02:14:18 IST" duration-ms="35530">
+      <class name="testng.Testone">
+        <test-method is-config="true" signature="t2aTest(java.lang.String)[pri:0, instance:testng.Testone@48075da3]" started-at="2023-08-18T02:13:42 IST" name="t2aTest" finished-at="2023-08-18T02:13:50 IST" duration-ms="7591" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser inilizaton Start]]>
+            </line>
+            <line>
+              <![CDATA[Browser inilizaton Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t2aTest -->
+        <test-method signature="methodOne(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.Testone@48075da3]" started-at="2023-08-18T02:13:50 IST" name="methodOne" finished-at="2023-08-18T02:14:03 IST" duration-ms="13296" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ram]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://yahoo.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[onTestStart: null]]>
+            </line>
+            <line>
+              <![CDATA[Methodone started executing]]>
+            </line>
+            <line>
+              <![CDATA[Methodone completed executing]]>
+            </line>
+            <line>
+              <![CDATA[onTestSuccess: null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- methodOne -->
+        <test-method is-config="true" signature="t2aTest(java.lang.String)[pri:0, instance:testng.Testone@48075da3]" started-at="2023-08-18T02:14:03 IST" name="t2aTest" finished-at="2023-08-18T02:14:11 IST" duration-ms="7588" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser inilizaton Start]]>
+            </line>
+            <line>
+              <![CDATA[Browser inilizaton Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t2aTest -->
+        <test-method signature="methodThree()[pri:0, instance:testng.Testone@48075da3]" started-at="2023-08-18T02:14:11 IST" name="methodThree" finished-at="2023-08-18T02:14:11 IST" duration-ms="4" status="SKIP">
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Temporarly skipping testcase]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Temporarly skipping testcase
+at testng.Testone.methodThree(Testone.java:69)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1251)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[onTestStart: null]]>
+            </line>
+            <line>
+              <![CDATA[onTestSkipped: null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- methodThree -->
+        <test-method is-config="true" signature="t2aTest(java.lang.String)[pri:0, instance:testng.Testone@48075da3]" started-at="2023-08-18T02:14:11 IST" name="t2aTest" finished-at="2023-08-18T02:14:18 IST" duration-ms="7032" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser inilizaton Start]]>
+            </line>
+            <line>
+              <![CDATA[Browser inilizaton Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t2aTest -->
+        <test-method signature="methodThsee()[pri:0, instance:testng.Testone@48075da3]" started-at="2023-08-18T02:14:18 IST" name="methodThsee" finished-at="2023-08-18T02:14:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[onTestStart: null]]>
+            </line>
+            <line>
+              <![CDATA[MethodThsee started executing]]>
+            </line>
+            <line>
+              <![CDATA[MethodThsee completed executing]]>
+            </line>
+            <line>
+              <![CDATA[onTestSuccess: null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- methodThsee -->
+      </class> <!-- testng.Testone -->
+    </test> <!-- EdgeTest -->
+  </suite> <!-- Suite 2 -->
+  <suite started-at="2023-08-18T02:11:09 IST" name="Suite 1" finished-at="2023-08-18T02:12:35 IST" duration-ms="85827">
+    <groups>
+      <group name="smoke">
+        <method signature="Testone.methodOne(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.Testone@1e0b4072]" name="methodOne" class="testng.Testone"/>
+        <method signature="Testone.methodThree()[pri:0, instance:testng.Testone@1e0b4072]" name="methodThree" class="testng.Testone"/>
+        <method signature="Testone.methodThsee()[pri:0, instance:testng.Testone@1e0b4072]" name="methodThsee" class="testng.Testone"/>
+        <method signature="Testone.methodOne(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.Testone@75437611]" name="methodOne" class="testng.Testone"/>
+        <method signature="Testone.methodThree()[pri:0, instance:testng.Testone@75437611]" name="methodThree" class="testng.Testone"/>
+        <method signature="Testone.methodThsee()[pri:0, instance:testng.Testone@75437611]" name="methodThsee" class="testng.Testone"/>
+        <method signature="Testone.methodOne(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.Testone@4c60d6e9]" name="methodOne" class="testng.Testone"/>
+        <method signature="Testone.methodThree()[pri:0, instance:testng.Testone@4c60d6e9]" name="methodThree" class="testng.Testone"/>
+        <method signature="Testone.methodThsee()[pri:0, instance:testng.Testone@4c60d6e9]" name="methodThsee" class="testng.Testone"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2023-08-18T02:11:09 IST" name="ChromeTest" finished-at="2023-08-18T02:11:26 IST" duration-ms="16412">
+      <class name="testng.Testone">
+        <test-method is-config="true" signature="t2aTest(java.lang.String)[pri:0, instance:testng.Testone@1e0b4072]" started-at="2023-08-18T02:11:09 IST" name="t2aTest" finished-at="2023-08-18T02:11:17 IST" duration-ms="7395" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser inilizaton Start]]>
+            </line>
+            <line>
+              <![CDATA[Browser inilizaton Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t2aTest -->
+        <test-method signature="methodOne(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.Testone@1e0b4072]" started-at="2023-08-18T02:11:17 IST" name="methodOne" finished-at="2023-08-18T02:11:19 IST" duration-ms="2645" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pavan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[onTestStart: null]]>
+            </line>
+            <line>
+              <![CDATA[Methodone started executing]]>
+            </line>
+            <line>
+              <![CDATA[Methodone completed executing]]>
+            </line>
+            <line>
+              <![CDATA[onTestSuccess: null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- methodOne -->
+        <test-method is-config="true" signature="t2aTest(java.lang.String)[pri:0, instance:testng.Testone@1e0b4072]" started-at="2023-08-18T02:11:19 IST" name="t2aTest" finished-at="2023-08-18T02:11:23 IST" duration-ms="3111" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser inilizaton Start]]>
+            </line>
+            <line>
+              <![CDATA[Browser inilizaton Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t2aTest -->
+        <test-method signature="methodThree()[pri:0, instance:testng.Testone@1e0b4072]" started-at="2023-08-18T02:11:23 IST" name="methodThree" finished-at="2023-08-18T02:11:23 IST" duration-ms="3" status="SKIP">
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Temporarly skipping testcase]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Temporarly skipping testcase
+at testng.Testone.methodThree(Testone.java:69)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1251)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[onTestStart: null]]>
+            </line>
+            <line>
+              <![CDATA[onTestSkipped: null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- methodThree -->
+        <test-method is-config="true" signature="t2aTest(java.lang.String)[pri:0, instance:testng.Testone@1e0b4072]" started-at="2023-08-18T02:11:23 IST" name="t2aTest" finished-at="2023-08-18T02:11:26 IST" duration-ms="3127" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser inilizaton Start]]>
+            </line>
+            <line>
+              <![CDATA[Browser inilizaton Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t2aTest -->
+        <test-method signature="methodThsee()[pri:0, instance:testng.Testone@1e0b4072]" started-at="2023-08-18T02:11:26 IST" name="methodThsee" finished-at="2023-08-18T02:11:26 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[onTestStart: null]]>
+            </line>
+            <line>
+              <![CDATA[MethodThsee started executing]]>
+            </line>
+            <line>
+              <![CDATA[MethodThsee completed executing]]>
+            </line>
+            <line>
+              <![CDATA[onTestSuccess: null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- methodThsee -->
+      </class> <!-- testng.Testone -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2023-08-18T02:11:26 IST" name="FireFoxTest" finished-at="2023-08-18T02:12:04 IST" duration-ms="38102">
+      <class name="testng.Testone">
+        <test-method is-config="true" signature="t2aTest(java.lang.String)[pri:0, instance:testng.Testone@75437611]" started-at="2023-08-18T02:11:26 IST" name="t2aTest" finished-at="2023-08-18T02:11:35 IST" duration-ms="9156" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser inilizaton Start]]>
+            </line>
+            <line>
+              <![CDATA[Browser inilizaton Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t2aTest -->
+        <test-method signature="methodOne(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.Testone@75437611]" started-at="2023-08-18T02:11:35 IST" name="methodOne" finished-at="2023-08-18T02:11:50 IST" duration-ms="15225" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SIVA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[onTestStart: null]]>
+            </line>
+            <line>
+              <![CDATA[Methodone started executing]]>
+            </line>
+            <line>
+              <![CDATA[Methodone completed executing]]>
+            </line>
+            <line>
+              <![CDATA[onTestSuccess: null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- methodOne -->
+        <test-method is-config="true" signature="t2aTest(java.lang.String)[pri:0, instance:testng.Testone@75437611]" started-at="2023-08-18T02:11:50 IST" name="t2aTest" finished-at="2023-08-18T02:11:58 IST" duration-ms="7471" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser inilizaton Start]]>
+            </line>
+            <line>
+              <![CDATA[Browser inilizaton Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t2aTest -->
+        <test-method signature="methodThree()[pri:0, instance:testng.Testone@75437611]" started-at="2023-08-18T02:11:58 IST" name="methodThree" finished-at="2023-08-18T02:11:58 IST" duration-ms="3" status="SKIP">
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Temporarly skipping testcase]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Temporarly skipping testcase
+at testng.Testone.methodThree(Testone.java:69)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1251)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[onTestStart: null]]>
+            </line>
+            <line>
+              <![CDATA[onTestSkipped: null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- methodThree -->
+        <test-method is-config="true" signature="t2aTest(java.lang.String)[pri:0, instance:testng.Testone@75437611]" started-at="2023-08-18T02:11:58 IST" name="t2aTest" finished-at="2023-08-18T02:12:04 IST" duration-ms="6222" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser inilizaton Start]]>
+            </line>
+            <line>
+              <![CDATA[Browser inilizaton Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t2aTest -->
+        <test-method signature="methodThsee()[pri:0, instance:testng.Testone@75437611]" started-at="2023-08-18T02:12:04 IST" name="methodThsee" finished-at="2023-08-18T02:12:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[onTestStart: null]]>
+            </line>
+            <line>
+              <![CDATA[MethodThsee started executing]]>
+            </line>
+            <line>
+              <![CDATA[MethodThsee completed executing]]>
+            </line>
+            <line>
+              <![CDATA[onTestSuccess: null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- methodThsee -->
+      </class> <!-- testng.Testone -->
+    </test> <!-- FireFoxTest -->
+    <test started-at="2023-08-18T02:12:04 IST" name="EdgeTest" finished-at="2023-08-18T02:12:35 IST" duration-ms="31114">
+      <class name="testng.Testone">
+        <test-method is-config="true" signature="t2aTest(java.lang.String)[pri:0, instance:testng.Testone@4c60d6e9]" started-at="2023-08-18T02:12:04 IST" name="t2aTest" finished-at="2023-08-18T02:12:16 IST" duration-ms="11523" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser inilizaton Start]]>
+            </line>
+            <line>
+              <![CDATA[Browser inilizaton Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t2aTest -->
+        <test-method signature="methodOne(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.Testone@4c60d6e9]" started-at="2023-08-18T02:12:16 IST" name="methodOne" finished-at="2023-08-18T02:12:19 IST" duration-ms="3917" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[RAJU]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[onTestStart: null]]>
+            </line>
+            <line>
+              <![CDATA[Methodone started executing]]>
+            </line>
+            <line>
+              <![CDATA[Methodone completed executing]]>
+            </line>
+            <line>
+              <![CDATA[onTestSuccess: null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- methodOne -->
+        <test-method is-config="true" signature="t2aTest(java.lang.String)[pri:0, instance:testng.Testone@4c60d6e9]" started-at="2023-08-18T02:12:19 IST" name="t2aTest" finished-at="2023-08-18T02:12:26 IST" duration-ms="6493" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser inilizaton Start]]>
+            </line>
+            <line>
+              <![CDATA[Browser inilizaton Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t2aTest -->
+        <test-method signature="methodThree()[pri:0, instance:testng.Testone@4c60d6e9]" started-at="2023-08-18T02:12:26 IST" name="methodThree" finished-at="2023-08-18T02:12:26 IST" duration-ms="4" status="SKIP">
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Temporarly skipping testcase]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Temporarly skipping testcase
+at testng.Testone.methodThree(Testone.java:69)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1251)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[onTestStart: null]]>
+            </line>
+            <line>
+              <![CDATA[onTestSkipped: null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- methodThree -->
+        <test-method is-config="true" signature="t2aTest(java.lang.String)[pri:0, instance:testng.Testone@4c60d6e9]" started-at="2023-08-18T02:12:26 IST" name="t2aTest" finished-at="2023-08-18T02:12:35 IST" duration-ms="9145" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser inilizaton Start]]>
+            </line>
+            <line>
+              <![CDATA[Browser inilizaton Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t2aTest -->
+        <test-method signature="methodThsee()[pri:0, instance:testng.Testone@4c60d6e9]" started-at="2023-08-18T02:12:35 IST" name="methodThsee" finished-at="2023-08-18T02:12:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[onTestStart: null]]>
+            </line>
+            <line>
+              <![CDATA[MethodThsee started executing]]>
+            </line>
+            <line>
+              <![CDATA[MethodThsee completed executing]]>
+            </line>
+            <line>
+              <![CDATA[onTestSuccess: null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- methodThsee -->
+      </class> <!-- testng.Testone -->
+    </test> <!-- EdgeTest -->
+  </suite> <!-- Suite 1 -->
+  <suite started-at="2023-08-18T02:14:19 IST" name="All Suite" finished-at="2023-08-18T02:14:19 IST" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- All Suite -->
+</testng-results>

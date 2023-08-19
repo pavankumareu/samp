@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="22" total="27" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[onStart: ChromeTest]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Start]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Completed]]>
+    </line>
+    <line>
+      <![CDATA[onTestStart: null]]>
+    </line>
+    <line>
+      <![CDATA[Methodone started executing]]>
+    </line>
+    <line>
+      <![CDATA[Methodone completed executing]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess: null]]>
+    </line>
+    <line>
+      <![CDATA[onFinish: ChromeTest]]>
+    </line>
+    <line>
+      <![CDATA[onStart: FireFoxTest]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Start]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Completed]]>
+    </line>
+    <line>
+      <![CDATA[onTestStart: null]]>
+    </line>
+    <line>
+      <![CDATA[Methodone started executing]]>
+    </line>
+    <line>
+      <![CDATA[Methodone completed executing]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess: null]]>
+    </line>
+    <line>
+      <![CDATA[onFinish: FireFoxTest]]>
+    </line>
+    <line>
+      <![CDATA[onStart: ChromeTest]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Start]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Completed]]>
+    </line>
+    <line>
+      <![CDATA[onTestStart: null]]>
+    </line>
+    <line>
+      <![CDATA[Methodone started executing]]>
+    </line>
+    <line>
+      <![CDATA[Methodone completed executing]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess: null]]>
+    </line>
+    <line>
+      <![CDATA[onFinish: ChromeTest]]>
+    </line>
+    <line>
+      <![CDATA[onStart: FireFoxTest]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Start]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Completed]]>
+    </line>
+    <line>
+      <![CDATA[onTestStart: null]]>
+    </line>
+    <line>
+      <![CDATA[Methodone started executing]]>
+    </line>
+    <line>
+      <![CDATA[Methodone completed executing]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess: null]]>
+    </line>
+    <line>
+      <![CDATA[onFinish: FireFoxTest]]>
+    </line>
+    <line>
+      <![CDATA[onStart: EdgeTest]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Start]]>
+    </line>
+    <line>
+      <![CDATA[Browser inilizaton Completed]]>
+    </line>
+    <line>
+      <![CDATA[onTestStart: null]]>
+    </line>
+    <line>
+      <![CDATA[Methodone started executing]]>
+    </line>
+    <line>
+      <![CDATA[Methodone completed executing]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess: null]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-08-20T00:46:47 IST" name="Suite 2" finished-at="2023-08-20T00:47:07 IST" duration-ms="20400">
+    <groups>
+      <group name="smoke">
+        <method signature="Testone.methodOne(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.Testone@434a63ab]" name="methodOne" class="testng.Testone"/>
+        <method signature="Testone.methodOne(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.Testone@3c7f66c4]" name="methodOne" class="testng.Testone"/>
+        <method signature="Testone.methodOne(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.Testone@53ce1329]" name="methodOne" class="testng.Testone"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2023-08-20T00:46:47 IST" name="ChromeTest" finished-at="2023-08-20T00:46:52 IST" duration-ms="4789">
+      <class name="testng.Testone">
+        <test-method is-config="true" signature="t2aTest(java.lang.String)[pri:0, instance:testng.Testone@434a63ab]" started-at="2023-08-20T00:46:47 IST" name="t2aTest" finished-at="2023-08-20T00:46:50 IST" duration-ms="3054" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser inilizaton Start]]>
+            </line>
+            <line>
+              <![CDATA[Browser inilizaton Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t2aTest -->
+        <test-method signature="methodOne(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.Testone@434a63ab]" started-at="2023-08-20T00:46:50 IST" name="methodOne" finished-at="2023-08-20T00:46:52 IST" duration-ms="1732" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://www.google.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[onTestStart: null]]>
+            </line>
+            <line>
+              <![CDATA[Methodone started executing]]>
+            </line>
+            <line>
+              <![CDATA[Methodone completed executing]]>
+            </line>
+            <line>
+              <![CDATA[onTestSuccess: null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- methodOne -->
+      </class> <!-- testng.Testone -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2023-08-20T00:46:52 IST" name="FireFoxTest" finished-at="2023-08-20T00:47:00 IST" duration-ms="8492">
+      <class name="testng.Testone">
+        <test-method is-config="true" signature="t2aTest(java.lang.String)[pri:0, instance:testng.Testone@3c7f66c4]" started-at="2023-08-20T00:46:52 IST" name="t2aTest" finished-at="2023-08-20T00:46:57 IST" duration-ms="5317" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser inilizaton Start]]>
+            </line>
+            <line>
+              <![CDATA[Browser inilizaton Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t2aTest -->
+        <test-method signature="methodOne(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.Testone@3c7f66c4]" started-at="2023-08-20T00:46:57 IST" name="methodOne" finished-at="2023-08-20T00:47:00 IST" duration-ms="3174" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[prem]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://www.google.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[onTestStart: null]]>
+            </line>
+            <line>
+              <![CDATA[Methodone started executing]]>
+            </line>
+            <line>
+              <![CDATA[Methodone completed executing]]>
+            </line>
+            <line>
+              <![CDATA[onTestSuccess: null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- methodOne -->
+      </class> <!-- testng.Testone -->
+    </test> <!-- FireFoxTest -->
+    <test started-at="2023-08-20T00:47:00 IST" name="EdgeTest" finished-at="2023-08-20T00:47:07 IST" duration-ms="7106">
+      <class name="testng.Testone">
+        <test-method is-config="true" signature="t2aTest(java.lang.String)[pri:0, instance:testng.Testone@53ce1329]" started-at="2023-08-20T00:47:00 IST" name="t2aTest" finished-at="2023-08-20T00:47:05 IST" duration-ms="5214" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser inilizaton Start]]>
+            </line>
+            <line>
+              <![CDATA[Browser inilizaton Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t2aTest -->
+        <test-method signature="methodOne(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.Testone@53ce1329]" started-at="2023-08-20T00:47:05 IST" name="methodOne" finished-at="2023-08-20T00:47:07 IST" duration-ms="1889" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ram]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://www.google.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[onTestStart: null]]>
+            </line>
+            <line>
+              <![CDATA[Methodone started executing]]>
+            </line>
+            <line>
+              <![CDATA[Methodone completed executing]]>
+            </line>
+            <line>
+              <![CDATA[onTestSuccess: null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- methodOne -->
+      </class> <!-- testng.Testone -->
+    </test> <!-- EdgeTest -->
+  </suite> <!-- Suite 2 -->
+  <suite started-at="2023-08-20T00:46:31 IST" name="Suite 1" finished-at="2023-08-20T00:46:47 IST" duration-ms="15909">
+    <groups>
+      <group name="smoke">
+        <method signature="Testone.methodOne(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.Testone@101952da]" name="methodOne" class="testng.Testone"/>
+        <method signature="Testone.methodOne(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.Testone@7bd4937b]" name="methodOne" class="testng.Testone"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2023-08-20T00:46:31 IST" name="ChromeTest" finished-at="2023-08-20T00:46:38 IST" duration-ms="7088">
+      <class name="testng.Testone">
+        <test-method is-config="true" signature="t2aTest(java.lang.String)[pri:0, instance:testng.Testone@101952da]" started-at="2023-08-20T00:46:31 IST" name="t2aTest" finished-at="2023-08-20T00:46:36 IST" duration-ms="5332" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser inilizaton Start]]>
+            </line>
+            <line>
+              <![CDATA[Browser inilizaton Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t2aTest -->
+        <test-method signature="methodOne(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.Testone@101952da]" started-at="2023-08-20T00:46:36 IST" name="methodOne" finished-at="2023-08-20T00:46:38 IST" duration-ms="1654" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pavan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://www.google.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[onTestStart: null]]>
+            </line>
+            <line>
+              <![CDATA[Methodone started executing]]>
+            </line>
+            <line>
+              <![CDATA[Methodone completed executing]]>
+            </line>
+            <line>
+              <![CDATA[onTestSuccess: null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- methodOne -->
+      </class> <!-- testng.Testone -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2023-08-20T00:46:38 IST" name="FireFoxTest" finished-at="2023-08-20T00:46:47 IST" duration-ms="8730">
+      <class name="testng.Testone">
+        <test-method is-config="true" signature="t2aTest(java.lang.String)[pri:0, instance:testng.Testone@7bd4937b]" started-at="2023-08-20T00:46:38 IST" name="t2aTest" finished-at="2023-08-20T00:46:44 IST" duration-ms="5563" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser inilizaton Start]]>
+            </line>
+            <line>
+              <![CDATA[Browser inilizaton Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t2aTest -->
+        <test-method signature="methodOne(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.Testone@7bd4937b]" started-at="2023-08-20T00:46:44 IST" name="methodOne" finished-at="2023-08-20T00:46:47 IST" duration-ms="3162" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SIVA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://www.google.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[onTestStart: null]]>
+            </line>
+            <line>
+              <![CDATA[Methodone started executing]]>
+            </line>
+            <line>
+              <![CDATA[Methodone completed executing]]>
+            </line>
+            <line>
+              <![CDATA[onTestSuccess: null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- methodOne -->
+      </class> <!-- testng.Testone -->
+    </test> <!-- FireFoxTest -->
+  </suite> <!-- Suite 1 -->
+</testng-results>

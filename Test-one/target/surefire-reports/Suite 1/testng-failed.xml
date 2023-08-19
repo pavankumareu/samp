@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite 1]" guice-stage="DEVELOPMENT" verbose="0">
+  <parameter name="url" value="http://gmail.com"/>
+  <listeners>
+    <listener class-name="tests.Lisners"/>
+  </listeners>
+  <test thread-count="5" name="ChromeTest(failed)" verbose="0">
+    <parameter name="pass" value="Test@123"/>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="username" value="pavan"/>
+    <groups>
+      <run>
+        <include name="smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testng.Testone">
+        <methods>
+          <include name="methodOne"/>
+          <include name="t2aTest"/>
+        </methods>
+      </class> <!-- testng.Testone -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+  <test thread-count="5" name="FireFoxTest(failed)" verbose="0">
+    <parameter name="pass" value="Test@123"/>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="username" value="SIVA"/>
+    <groups>
+      <run>
+        <include name="smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testng.Testone">
+        <methods>
+          <include name="methodOne"/>
+          <include name="t2aTest"/>
+        </methods>
+      </class> <!-- testng.Testone -->
+    </classes>
+  </test> <!-- FireFoxTest(failed) -->
+  <test thread-count="5" name="EdgeTest(failed)" verbose="0">
+    <parameter name="pass" value="Test@123"/>
+    <parameter name="browser" value="edge"/>
+    <parameter name="username" value="RAJU"/>
+    <groups>
+      <run>
+        <include name="smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testng.Testone">
+        <methods>
+          <include name="methodOne"/>
+          <include name="t2aTest"/>
+        </methods>
+      </class> <!-- testng.Testone -->
+    </classes>
+  </test> <!-- EdgeTest(failed) -->
+</suite> <!-- Failed suite [Suite 1] -->
